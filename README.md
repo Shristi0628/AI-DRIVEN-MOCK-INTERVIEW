@@ -11,7 +11,7 @@ An AI-powered mock interview platform that helps users prepare for technical and
 
 🛠 Tech Stack
 Frontend: React, TailwindCSS
-Backend: Node.js / Express (if applicable), or mock server
+Backend: Node.js / Express , or mock server
 Recording: react-webcam, MediaRecorder API
 Storage: Local / Cloud-based upload endpoint (e.g., Firebase, custom server)
 
